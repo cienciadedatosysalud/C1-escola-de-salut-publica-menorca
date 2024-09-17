@@ -4,7 +4,6 @@
 
 ---
 
-# Tutorial ASPIRE (Google Colab)
 ### - Autor: **Francisco Estupiñan-Romero**, Instituto Aragonés de Ciencias de la Salud (España)
 ### - Email: <festupinnan@iacs.es>
 ### - Autor: **Enrique Bernal-Delgado MD PhD**, Instituto Aragonés de Ciencias de la Salud (España)
