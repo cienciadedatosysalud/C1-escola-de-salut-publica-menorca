@@ -31,6 +31,11 @@ Si todo es correcto, ¡continuemos!
 En estos tutoriales, vamos a utilizar Docker o Jupyter Notebook como alternativa.
 
 
+> [!IMPORTANT]  
+> El uso de herramientas en la nube como Google Colab (alternativa a Docker en este curso) no es recomendable para trabajar con datos de extrema sensibilidad como son los datos de salud.
+> En el curso sólo se utilizarán datos sintéticos y el uso de Jupyter Notebook en este taller es únicamente para fines educativos.
+
+
 # Common Data Model Builder
 
 ### 🐳 Usuarios con Docker instalado 🐳
