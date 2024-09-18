@@ -51,7 +51,7 @@ El cuaderno está disponible en la siguiente URL:
 
 https://github.com/cienciadedatosysalud/C1-escola-de-salut-publica-menorca/blob/main/c1_tutorial_cdmb.ipynb
 
-🔮🔮🔮 Para abrir el Notebook en Google Colab añade la URL «tocolab» al final de «GitHub». Haz clic en el siguiente enlace 🔮🔮🔮🔮
+🔮🔮🔮 Para abrir el Notebook en Google Colab añade la URL «tocolab» al final de «GitHub». Haz clic en el siguiente enlace 🔮🔮🔮
 
 https://githubtocolab.com/cienciadedatosysalud/C1-escola-de-salut-publica-menorca/blob/main/c1_tutorial_cdmb.ipynb
 
@@ -79,7 +79,7 @@ El cuaderno está disponible en la siguiente URL:
 
 https://github.com/cienciadedatosysalud/C1-escola-de-salut-publica-menorca/blob/main/c1_tutorial_aspire.ipynb
 
-🔮🔮🔮 Para abrir el Notebook en Google Colab añade la URL «tocolab» al final de «GitHub». Haz clic en el siguiente enlace 🔮🔮🔮🔮
+🔮🔮🔮 Para abrir el Notebook en Google Colab añade la URL «tocolab» al final de «GitHub». Haz clic en el siguiente enlace 🔮🔮🔮
 
 https://githubtocolab.com/cienciadedatosysalud/C1-escola-de-salut-publica-menorca/blob/main/c1_tutorial_aspire.ipynb
 
