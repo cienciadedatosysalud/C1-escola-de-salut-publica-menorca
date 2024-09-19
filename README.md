@@ -36,6 +36,13 @@ En estos tutoriales, vamos a utilizar Docker o Jupyter Notebook como alternativa
 > En el curso sólo se utilizarán datos sintéticos y el uso de Jupyter Notebook en este taller es únicamente para fines educativos.
 
 
+> [!NOTE]  
+> En los siguientes enlaces podrás encontrar el material suplementario para realizar los ejercicios.
+> 
+> [Atlas-Farmacia Antibióticos](https://github.com/cienciadedatosysalud/C1-escola-de-salut-publica-menorca/tree/main/material/antibioticos)
+> 
+> [Atlas-Farmacia Opioides](https://github.com/cienciadedatosysalud/C1-escola-de-salut-publica-menorca/tree/main/material/opioides)
+
 # Common Data Model Builder
 
 ### 🐳 Usuarios con Docker instalado 🐳
